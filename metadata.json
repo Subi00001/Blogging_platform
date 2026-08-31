@@ -1,0 +1,6 @@
+{
+  "name": "BlogSpace - Full-Stack Blogging Platform",
+  "description": "A full-stack blogging platform with user authentication, rich blog management, interactive comments, search and filter, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
